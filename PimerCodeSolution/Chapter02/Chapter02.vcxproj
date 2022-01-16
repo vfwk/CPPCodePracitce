@@ -125,6 +125,8 @@
   <ItemGroup>
     <ClCompile Include="..\Chapter01\carrots.cpp" />
     <ClCompile Include="..\Chapter01\myfirst.cpp" />
+    <ClCompile Include="getinfo.cpp" />
+    <ClCompile Include="sqrt.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
